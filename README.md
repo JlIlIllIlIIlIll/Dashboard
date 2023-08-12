@@ -4,6 +4,8 @@
 
 https://next13-dashboard-e-commerce.vercel.app/
 
+_You can use : https://stripe.com/docs/testing for demo cards_
+
 ## Description
 
 This project is an e-commerce dashboard developed with Next.js, React, Tailwind, Prisma, and MySQL. It offers a comprehensive solution for managing an online store, complete with an integrated CMS and admin dashboard.
